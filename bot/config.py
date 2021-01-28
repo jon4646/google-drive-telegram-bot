@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1689655665:AAGnyNi--3v9uLesJ1OjIaL1EOd9mZrkApw"
+    APP_ID = "2399943"
+    API_HASH = "d70ea1cd0a0fca1d325d0dc97ef5cc4a"
+    DATABASE_URL = "postgres://supcjfvxrwygjl:9f6b1bc5db81050197fbd9c93b5224f260d32b95717879aa6a707c721904c84d@ec2-52-4-177-4.compute-1.amazonaws.com:5432/dcu0omapadfgns"
+    SUDO_USERS = "1415487739 1415487739" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/tgclonebot/2546"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
